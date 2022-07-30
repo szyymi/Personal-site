@@ -129,34 +129,34 @@ line-height: 2;
 }
 
 .computer {
-width: 25%;
+width: 180px;
 float: left;
-margin-right: 30px;
+margin-right: 20px;
 }
 
 .development {
-width: 25%;
+width: 180px;
 float: right;
-margin-left: 30px;
+margin-left: 20px;
 
 
 }
 
 .cpu {
     
-    width: 15%;
+    width: 150px;
  margin-bottom: 30px;
 }
 
 .travel {
     
-    width: 15%;
+    width: 150px;
     margin-bottom: 30px;
 }
 
 .savannah {
     
-    width: 15%;
+    width: 150px;
     margin-bottom: 30px;
 }
 
