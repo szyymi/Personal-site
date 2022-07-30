@@ -1,0 +1,167 @@
+
+
+body {
+  
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+   
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    margin: 50px, auto, 0, auto;
+    font-size: 500%;
+    line-height: 2;
+    color: #66BFBF;
+}  
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 250%;
+    color: #66BFBF;
+    font-weight: bold;
+    
+}
+
+h3 {
+    
+    color: #66BFBF;
+    font-size: 160%;
+    font-weight: normal;
+    
+
+}
+
+
+
+a:hover {
+
+ color: #E36387;
+}
+
+.top-container {
+
+    background-color: #e1eedd;
+    position: relative;
+    padding-top: 100px;
+    width: 100%;
+}
+
+.intro {
+
+    width: 50%;
+    margin-left: 25%;
+}
+
+
+.middle-container {
+    background-color: #FBF8F1;
+}
+
+.bottom-container {
+    background-color: #65855c;
+    height: 100px;
+    width: 100%;
+    position: relative;
+}
+.top-cloud {
+
+    position: absolute;
+    right: 23%;
+    top: 70px;
+    
+
+}
+
+.bottom-cloud {
+
+    position: absolute;
+    left: 23%;
+    bottom: 200px;
+    
+    
+}
+
+
+
+.copyright {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #fefbe9;
+}
+
+.footer1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #fefbe9;
+   
+}
+
+.footer2 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #fefbe9;
+
+    
+}
+
+.skill-row {
+margin: 100px auto 50px auto;
+width: 50%;
+text-align: left;
+line-height: 2;
+
+}
+
+.mail {
+    color: #fefbe9;
+    margin-top: 7px;
+
+}
+
+.myphoto {
+
+ margin-top: -80px;
+ width: 300px;
+ height: 510px;  
+}
+
+.computer {
+width: 25%;
+float: left;
+margin-right: 30px;
+}
+
+.development {
+width: 25%;
+float: right;
+margin-left: 30px;
+
+
+}
+
+.cpu {
+    
+    width: 15%;
+ margin-bottom: 30px;
+}
+
+.travel {
+    
+    width: 15%;
+    margin-bottom: 30px;
+}
+
+.savannah {
+    
+    width: 15%;
+    margin-bottom: 30px;
+}
+
+#me {
+font-size: 175%;
+
+}
+
